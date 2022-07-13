@@ -1,0 +1,29 @@
+[33mcommit fd1b58574461f0feb0afac3bfa7017c567d6ac48[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Alex780106 <show780106@gmail.com>
+Date:   Wed Jul 13 14:49:31 2022 +0800
+
+    Add .gitignore
+
+[33mcommit f0b7d8ea75b8f3081a1d6f5e16ecba3311385427[m
+Author: Alex780106 <show780106@gmail.com>
+Date:   Wed Jul 13 14:45:25 2022 +0800
+
+    Added test1.txt
+
+[33mcommit 683f131e90296ac658dd797685af3563848130f2[m
+Author: Alex780106 <show780106@gmail.com>
+Date:   Wed Jul 13 14:42:17 2022 +0800
+
+    Modified README.md
+
+[33mcommit 6868bac59aef899cb3a399d84301822635f6928f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex780106 <37874182+Alex780106@users.noreply.github.com>
+Date:   Wed Jul 13 13:29:29 2022 +0800
+
+    Create test.py
+
+[33mcommit 1f57240245f52a0c8f26ec235444bb5d8db52970[m
+Author: Alex780106 <37874182+Alex780106@users.noreply.github.com>
+Date:   Wed Jul 13 13:26:19 2022 +0800
+
+    Initial commit
